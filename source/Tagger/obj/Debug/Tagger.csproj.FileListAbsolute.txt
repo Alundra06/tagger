@@ -1,0 +1,5 @@
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tagger\bin\Debug\Tagger.dll
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tagger\bin\Debug\Tagger.pdb
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tagger\obj\Debug\Tagger.csprojResolveAssemblyReference.cache
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tagger\obj\Debug\Tagger.dll
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tagger\obj\Debug\Tagger.pdb

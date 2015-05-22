@@ -1,0 +1,7 @@
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tests\Tagger.Tests\bin\Debug\Tagger.Tests.dll
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tests\Tagger.Tests\bin\Debug\Tagger.Tests.pdb
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tests\Tagger.Tests\bin\Debug\Tagger.dll
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tests\Tagger.Tests\bin\Debug\Tagger.pdb
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tests\Tagger.Tests\obj\Debug\Tagger.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tests\Tagger.Tests\obj\Debug\Tagger.Tests.dll
+C:\Users\Ouassim\Documents\GitHub\tagger\source\Tests\Tagger.Tests\obj\Debug\Tagger.Tests.pdb
